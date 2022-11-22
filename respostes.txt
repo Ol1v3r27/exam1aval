@@ -5,4 +5,7 @@ Ejercicio 5
 mv si.txt si
 
 Ejercicio 6
+Sin respuesta´
+
+Ejercicio 7
 Sin respuesta
