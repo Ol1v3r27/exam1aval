@@ -3,3 +3,6 @@ Sin respuesta
 
 Ejercicio 5
 mv si.txt si
+
+Ejercicio 6
+Sin respuesta
